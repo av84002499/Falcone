@@ -1,9 +1,7 @@
 GeekTrust Finding Falcone coding challenge. This project is done using React framework.
 
 ### Build
-This project uses webpack and create React app for the build . The build can be triggered using npm scripts. The project is built and deployed here (https://finding-falcone-anushree.netlify.app/
-)
-
+This project uses webpack and create React app for the build . The build can be triggered using npm scripts. The project is built and deployed here 
 ```
 yarn build
 ```
